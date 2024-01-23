@@ -1,0 +1,9 @@
+.container{
+    padding: 40px 24px;
+}
+.btn-wrapper{
+    padding-top: 16px;
+}
+.btn-wrapper button{
+    margin-right: 10px;
+}
