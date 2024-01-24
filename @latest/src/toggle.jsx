@@ -9,7 +9,7 @@ function toggle() {
   return (
     <div>
       <p>The light is {isOn? "on":"off"}</p>
-      <button onClick={toggle}>Toggle</button>
+      <button onClick={handletoggle}>Toggle</button>
     </div>
   )
 }
